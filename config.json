@@ -1,0 +1,9 @@
+{
+    "embedding_dim": 64,
+    "max_len": 500,
+    "vocab_size": 59847,
+    "pad_id": 0,
+    "unk_id": 1,
+    "threshold": 0.5,
+    "min_freq": 5
+}
